@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-bnl5f.bnl5f.sandbox1132.opentlc.com/tssc/java-springboot-tzbkxhpt:bdcc12c0bfd1667e4faf51e58ca688168234e79e@sha256:9015cf2755b85199fd581012c5961b0637b4de35a2b9a4d5266d08b77d5e64c0
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-bnl5f.bnl5f.sandbox1132.opentlc.com/tssc/java-springboot-tzbkxhpt:6d1257c253d9217bfa579696e414fd7316bc67d4@sha256:0dc12532a478d3e6fe9572282c3b6fc2d01472183e76016fb280c7f20ca18ac7
           name: container-image
